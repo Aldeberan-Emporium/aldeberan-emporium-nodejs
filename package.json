@@ -1,0 +1,27 @@
+{
+  "name": "aldeberan-emporium-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/proscawards/aldeberan-emporium-map.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/proscawards/aldeberan-emporium-map/issues"
+  },
+  "homepage": "https://github.com/proscawards/aldeberan-emporium-map#readme",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.2.5",
+    "axios": "0.21.1",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  }
+}
